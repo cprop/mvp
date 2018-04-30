@@ -285,7 +285,7 @@ Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti soci
             <!-- Right Bar -->
             <div class="right-bar">
                 <div class="home-right">
-            	    <h4>Service Sepresentative: <span>Lori Mills</span></h4>
+            	    <h4>Service Representative: <span>Lori Mills</span></h4>
                     <div class="account">
                 	<ul class="row text-center">
                     <li class="col wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
