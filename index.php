@@ -184,7 +184,7 @@
                                         <input type="tel" placeholder="Phone*" required>
                                     </div>
                                     <div class="col-sm-12">
-                                        <textarea cols="5" rows="5" placeholder="Massage" ></textarea>
+                                        <textarea cols="5" rows="5" placeholder="Message" ></textarea>
                                     </div>
                                     <div class="col-sm-12">
                                     	<div class="custom-control custom-checkbox">
